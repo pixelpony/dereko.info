@@ -1,0 +1,11 @@
+{
+  "name": "dereko.info",
+  "version": "1.0.0",
+  "description": "This will be the new website for me, Derek.",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
